@@ -1,0 +1,16 @@
+To run the code
+
+You need to install the following softwares
+
+Install lua on your mechine 
+https://code.google.com/archive/p/luaforwindows/downloads
+
+Install IDE Scite
+https://www.scintilla.org/SciTEDownload.html
+
+Install IDE Zerobrain
+https://studio.zerobrane.com/https://studio.zerobrane.com/
+
+
+A folder named lua gui develop has a sub folder named src (Given in the zip file )
+copy all from that folder and paste in your lua file location(Where lua has installed)
